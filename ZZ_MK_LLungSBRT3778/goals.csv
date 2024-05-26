@@ -1,0 +1,12 @@
+﻿Roi,RoiVolume (cm^3),Type,GoalCriteria,DoseLevel (cGy),Volume (cm^3),Volume (%)
+ChestWall,875.94,MaxDvh,AtMost,3000,30,3.42%
+D2cm,33262.29,MaxDose,AtMost,2600,,
+Esosphagus,16.28,MaxDvh,AtMost,1880,5,30.71%
+Lung_Total-GTV,2560.33,MaxDvh,AtMost,1160,1500,58.59%
+Lung_Total-GTV,2560.33,MaxDvh,AtMost,1240,1000,39.06%
+PTV,21.69,MinDvh,AtLeast,4800,,95.00%
+PTV,21.69,MaxDose,AtMost,8000,,
+Ribs,32.17,MaxDvh,AtMost,3200,1,3.11%
+Ribs,32.17,MaxDose,AtMost,4000,,
+SpinalCanal,41.81,MaxDvh,AtMost,1360,1.2,2.87%
+SpinalCanal,41.81,MaxDose,AtMost,2600,,
